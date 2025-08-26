@@ -1,0 +1,21 @@
+# Ignore virtual environments
+venv/
+.venv/
+
+# Ignore Python cache & compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore OS junk files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE configs
+.vscode/
+.idea/
+
+#Ignore API keys and sensitive files
+app/.env
+.env 
