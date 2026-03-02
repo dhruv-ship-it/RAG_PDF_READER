@@ -1,6 +1,11 @@
-# RAG PDF Reader API - Deployment Guide
+# RAG PDF Reader API
 
-This guide will help you deploy your RAG PDF Reader API publicly.
+A production-ready Retrieval-Augmented Generation (RAG) system that processes PDF documents and answers questions using advanced AI techniques.
+
+## 📚 **New to RAG?** 
+**Start here:** [**RAG_ARCHITECTURE_EXPLAINED.md**](./RAG_ARCHITECTURE_EXPLAINED.md) - Complete beginner's guide to understanding RAG architecture, workflow, and concepts.
+
+---
 
 ## 🚀 Quick Start
 
